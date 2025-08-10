@@ -12,9 +12,9 @@ data:
       userarn: arn:aws:iam::439307002497:user/mahesh
       username: mahesh
 
-kind: ConfigMap
-metadata:
-  creationTimestamp: "2025-08-06T04:26:20Z"
-  name: aws-auth
-  namespace: kube-system
-  uid: d69c78bf-acd0-4dc3-b446-67f00358edc1
+# kind: ConfigMap
+# metadata:
+#   creationTimestamp: "2025-08-06T04:26:20Z"
+#   name: aws-auth
+#   namespace: kube-system
+#   uid: d69c78bf-acd0-4dc3-b446-67f00358edc1
